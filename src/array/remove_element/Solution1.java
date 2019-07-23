@@ -1,4 +1,4 @@
-package array;
+package array.remove_element;
 
 /**
  * realxz
@@ -6,7 +6,7 @@ package array;
  * 2019 - 07 -23
  * https://leetcode-cn.com/problems/remove-element/
  */
-public class RemoveElement {
+public class Solution1 {
     public int removeElement(int[] nums, int val) {
         int length = nums.length;
         int count = 0;
