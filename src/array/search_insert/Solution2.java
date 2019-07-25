@@ -11,6 +11,7 @@ public class Solution2 {
         int low = 0;
         int high = nums.length - 1;
         while (low <= high) {
+            // TODO: 2019/7/25 int mid = (low + high) >>> 1;
             int mid = (low + high) / 2;
             int midValue = nums[mid];
             if (midValue == target) {
