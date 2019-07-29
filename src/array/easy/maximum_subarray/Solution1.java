@@ -1,4 +1,4 @@
-package array.maximum_subarray;
+package array.easy.maximum_subarray;
 
 /**
  * realxz

@@ -1,4 +1,4 @@
-package array.merge_sorted_array;
+package array.easy.merge_sorted_array;
 
 /**
  * realxz

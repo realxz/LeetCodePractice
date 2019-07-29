@@ -1,6 +1,4 @@
-package array.two_sum;
-
-import sun.nio.ch.sctp.SendFailed;
+package array.easy.two_sum;
 
 /**
  * realxz

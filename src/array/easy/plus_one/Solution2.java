@@ -1,4 +1,4 @@
-package array.plus_one;
+package array.easy.plus_one;
 
 /**
  * realxz

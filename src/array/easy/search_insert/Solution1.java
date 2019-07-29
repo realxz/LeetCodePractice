@@ -1,4 +1,4 @@
-package array.search_insert;
+package array.easy.search_insert;
 
 /**
  * realxz

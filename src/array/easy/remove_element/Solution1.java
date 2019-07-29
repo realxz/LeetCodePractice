@@ -1,4 +1,4 @@
-package array.remove_element;
+package array.easy.remove_element;
 
 /**
  * realxz

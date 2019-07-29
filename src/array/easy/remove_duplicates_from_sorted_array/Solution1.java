@@ -1,4 +1,4 @@
-package array.remove_duplicates_from_sorted_array;
+package array.easy.remove_duplicates_from_sorted_array;
 
 /**
  * realxz
